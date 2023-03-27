@@ -1,0 +1,171 @@
+@media screen and (max-width: 568px){
+	.navbar {
+		height: 68px;
+		width: 568px;
+	}
+	.container>.flex {
+		display: block;
+	}
+	.head>.container {
+		padding-top: 40px;
+	}
+	.head {
+		height: 824px;
+	}
+	.div-img-1 {
+		width: 100%;
+		height: 278px;
+	}
+	.right {
+		height: auto;
+		width: 360px;
+		margin-top: 40px;
+	}
+	
+	.partners {
+		margin-top: 40px;
+	}
+	.ot {
+		height: 92px;
+		width: 385px;
+		display: flex;
+		justify-content: space-between;
+		gap: 230px;
+		border: 1px solid red;
+	}
+	.m-t {
+		margin-top: 26.72px;
+	}
+	.m-r {
+		margin-right: 24.16px;
+	}
+	.background {
+		height: auto;
+	}
+	.nout {
+		display: block;
+		height: 532px;
+		width: 100%;
+		border: 1px solid;
+		background: url("../img/Device.png") center no-repeat;
+		background-size: 100%;
+	}
+	.bac-b {
+		display: none;
+	}
+	.bs {
+		display: block;
+		padding-top: 56px;
+	}
+	.text-b {
+		height: 380px;
+		width: 450px;
+		
+	}
+	.two-t {
+		line-height: 60px;
+		width: 95%;
+	}
+	.sac {
+		padding-top: 48px;
+	}
+	.chap {
+		width: 100%;
+	}
+	.b-b {
+		height: auto;
+		width: 129px;
+	}
+	.ong {
+		display: flex;
+		width: 443px;
+		height: auto;
+		border: 2px solid red;
+	}
+	.heading-b {
+		height: 289px;
+	}
+	.yuz {
+		display: flex;
+		align-items: center;
+	}
+	.box-text {
+		height: 216px;
+		width: 272px;
+		
+	}
+	.n2,
+	.n3 {
+		display: block;
+	}
+	.n2 {
+		width: 172px;
+		height: auto;
+	}
+	.apb {
+		margin-top: 10px;
+	}
+	.with-t {
+		width: auto;
+		font-size: 20px;
+		line-height: 30px;
+	}
+	.heading2-t {
+		font-size: 36px;
+		line-height: 46px;
+		width: 100%;
+		height: auto;
+	}
+	.n3 {
+		height: 427px;
+		width: 508px;
+		margin: 31px auto 0;
+		background-size: auto;
+	}
+	.tbb1 {
+		display: none;
+	}
+	.tbb2 {
+		display: block;
+		height: 126px;
+		width: 508px;
+		margin-top: 80px;
+	}
+	.short-t {
+		font-size: 36px;
+		line-height: 46px;
+	}
+	.fo-t-2 {
+		display: block;
+		width: 270px;
+		font-family: Inter;
+		font-size: 36px;
+		font-weight: 700;
+		line-height: 46px;
+		letter-spacing: -0.800000011920929px;
+		margin-left: 15px;
+	}
+	#yuq,
+	.y2,
+	.when-t,
+	.y3,
+	.two-t-2 {
+		display: none;
+	}
+	.bir {
+		width: auto;
+	}
+	.head,
+	.background,
+	.heading-b,
+	.bac-tel,
+	.slider-b,
+	.two-box,
+	.section-box,
+	.green {
+		width: 568px;
+	}
+	.green {
+		padding: 0 66px  0 28px;
+	}
+}

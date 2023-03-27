@@ -1,0 +1,158 @@
+@media screen and (max-width: 768px){
+	.navbar,
+	.head,
+	.background,
+	.heading-b,
+	.bac-tel,
+	.slider-b,
+	.two-box,
+	.section-box,
+	.green {
+		width: 768px;
+	}
+	.navbar {
+		height: 68px;
+	}
+	.bir>a,
+	.ikki {
+		display: none;
+	}
+	.menu-b {
+		display: flex;
+		align-items: center;	
+	}
+	.container {
+		padding: 52px 30px 0;
+	}
+	.ht {
+		align-items: start;
+	}
+	.right {
+		height: 268px;
+		width: 316px;
+	}
+	.one-t {
+		font-size: 32px;
+		font-weight: 700;
+		line-height: 40px;
+	}
+	.so-t {
+		font-size: 16px;
+		font-weight: 400;
+		line-height: 30px;
+	}
+	.partners {
+		margin-top: 32px;
+	}
+	.ot {
+		margin-top: 24px;
+	}
+	.head {
+		height: 588px;
+	}
+	.container2 {
+		padding: 0 30px;
+	}
+	.background {
+		height: auto;
+		background: flex-start;
+	}
+	
+	.bs {
+		align-items: start;
+	}
+	.bac-b {
+		height: 436px;
+		width: 346px;
+		background-size: 100%;
+	}
+	.text-b {
+		height: 400px;
+		width: 326px;
+	}
+	.two-t {
+		line-height: 40px;
+	}
+	.no-flex {
+		display: block;
+	}
+	.sac {
+		padding-top: 80px;
+	}
+	
+	.chap {
+		width: 100%;
+		height: 86px;
+	}
+	.ong {
+		width: calc(290px + 24px + 129px);
+		display: flex;
+		justify-content: space-between;
+		height: auto;
+		margin-top: 32px;
+	}
+	.ong>input {
+		width: 290px;
+	}
+	.b-b {
+		width: 130px;
+	}
+	.b-b>button {
+		margin: 0;
+	}
+	.heading-b {
+		height: 335px;
+	}
+	.box-text {
+		width: 362px;
+	}
+	.when-t {
+		width: 100%;
+	}
+	.tel-i {
+		height: 314px;
+		width: 204.74417114257812px;
+		background-size: 100%;
+	}
+	.bac-tel {
+		height: auto;
+	}
+	.two-t-2 {
+		font-size: 24px;
+		height: 92px;
+		width: 433px
+	}
+	.no-c {
+		padding: 0 30px;
+		width: 100%;
+	}
+	.none {
+		display: flex;
+		margin-left: 30px;
+	}
+	.two-box {
+		height: 192px;
+		width: 768px;
+		display: flex;
+		align-items: center;
+	}
+	.slider-b {
+		height: 698px;
+	}
+	.section-box {
+		margin-top: 40px;
+	}
+	.yuq {
+		display: none;
+	}
+	.and {
+		padding-top: 31px;
+	}
+	.green {
+		padding: 0 168px 0 166px;
+		margin-top: 106px;
+	}
+	.section-box {
+		height: auto;
+	}
+}

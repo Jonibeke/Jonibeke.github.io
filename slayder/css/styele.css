@@ -1,0 +1,61 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container {
+    width: 1000px;
+    margin: 0 auto;
+}
+.slider {
+    margin-top: 60px;
+}
+.wrapper {
+    width: 100%;
+    overflow: hidden;
+}
+.boxes {
+    width: 300%;
+    display: flex;
+    gap: 30px;
+    transition: all .3s;
+}
+.box {
+    width: 500px;
+    height: 300px;
+    border: 1px solid gray;
+    border-radius: 8px;
+    padding: 30px 30px 40px 30px;
+    font-size: 70px;
+}
+
+.red {
+    background-color: red;
+}
+.blue {
+    background-color: blue;
+}
+.green {
+    background-color: green;
+}
+.yellow {
+    background-color: yellow;
+}
+.activeBox {
+    border: 4px solid black;
+}
+.dots {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.dot {
+    width: 20px;
+    height: 20px;
+    background-color: lightgray;
+    border-radius: 50%;
+}
+.active {
+    background-color: gray;
+}

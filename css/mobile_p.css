@@ -1,0 +1,302 @@
+@media screen and (max-width: 370px) {	
+	.head,
+	.navbar,
+	.background,
+	.heading-b,
+	.bac-tel,
+	.slider-b,
+	.two-box,
+	.section-box,
+	.green {
+		width: 320px;
+	}
+	.navbar {
+		padding: 0 15px;
+	}
+	.container {
+		padding: 40px 15px 0;
+	}
+	.div-img-1 {
+		height: 220px;
+		width: 100%;
+	}
+	.right {
+		margin-top: 30px;
+		height: 340px;
+		width: 100%;
+		height: auto;
+	}
+	.two-l-t {
+		display: block;
+		font-family: Inter;
+		font-size: 36px;
+		font-weight: 700;
+		line-height: 46px;
+		letter-spacing: -0.800000011920929px;
+		color: #1C1C1C;
+	}
+	.poster-t {
+		display: block;
+		font-family: Inter;
+		font-size: 20px;
+		font-weight: 400;
+		line-height: 30px;
+		letter-spacing: -0.30000001192092896px;
+		color: #585757;
+		width: 98%;
+		margin-top: 20px;
+	}
+	.partners {
+		margin-top: 50px;
+	}
+	.gap {
+		margin-top: 33.67px;
+		width: 100%;
+		height: auto;
+	}
+	.m-r {
+		margin-right: 15px;
+	}
+	.head {
+		height: 905px;
+	}
+	.nout {
+		border: 1px solid #e3c994;
+		height: 300px;
+		width: 320px;
+		background-size: 100%;
+	}
+	.text-b {
+		height: 565px;
+		width: 100%;
+	}
+	.bs {
+		padding: 30px 15px 0;
+	}
+	.you-t {
+		font-size: 20px;
+		width: 97%;
+	}
+	.heading-b {
+		height: 320px;
+	}
+	.chap {
+		height: 100%;
+	}
+	.in-t {
+		width: 97%;
+	}
+	.ong {
+		margin-top: 20px;
+		display: block;
+		width: 100%;
+	}
+	.ong>input {
+		width: 100%;
+		margin-bottom: 10px;
+	}
+	
+	.yuz {
+		display: block;
+		border: 1px solid #0ff;
+		padding: 40px 15px 0;
+	}
+	.box-text {
+		height: 216px;
+		width: 100%;	
+	}
+	.with-t {
+		width: 95%;
+	}
+	.n2 {
+		margin-top: 30px;
+	}
+	.n4 {
+		display: block;
+		width: 97%;
+		height: auto;
+	}
+	.tel-i {
+		height: 267px;
+		width: 289.48px;
+		background-position: top;
+	}
+	.slider-b {
+		height: 680px;
+		width: 320px;
+	}
+	.tbb2 {
+		height: 156px;
+		width: 290px;
+		margin: 40px auto 0;
+	}
+	.slider {
+		margin-top: 30px;
+	}
+	.box {
+		height: 370px;
+		width: 290px;
+		padding-right: 40px;
+	}
+	.qosh-i-b {
+		height: 80px;
+		width: 100%;
+		justify-content: space-between;
+		border: 1px solid red;
+	}
+	.n5 {
+		display: block;
+	}
+	.moment-t {
+		height: 120px;
+		width: 230px;
+		margin-top: 20px;
+		outline: 1px solid green;
+	}
+	.flx {
+		width: 100%;
+		display: block;
+	}
+	.ny {
+		border: 1px solid yellow;
+		margin-top: 30px;
+	}
+	.font-av {
+		border: 1px solid red;
+		margin-top: 22px;
+	}
+	
+	.dots {
+		margin: 30px;
+	}
+	.two-box {
+		height: 300px;
+		width: 320px;
+	}
+	.no-c {
+		display: block;
+		padding: 0 15px;
+	}
+	.fo-t-2 {
+		margin: 0;
+		height: auto;
+	}
+	
+	.button4 {
+		margin-top: 30px;
+	}
+	.section-box {
+		height: auto;
+		width: 320px;	
+	}
+	.and,
+	.green>.logo,
+	.green>p {
+		display: block;
+	}
+	.ikki-2,
+	.uch-3,
+	.tort-4,
+	.besh-5 {
+		width: 100%;
+		height: auto;
+	}
+	.uch-3 {
+		margin: 30px 0;
+	}
+	.besh-5 {
+		display: block;
+		height: auto;
+		border: 1px solid yellow;
+		margin-top: 30px;
+	}
+	.subscribe-t {
+		font-family: Inter;
+		font-size: 15px;
+		font-weight: 600;
+		line-height: 22px;
+		letter-spacing: -0.10000000149011612px;
+		color: #1C1C1C;
+	}
+	.besh-5>div {
+		width: 100%;
+		height: 39px;
+		display: flex;
+		justify-content: space-between;
+		margin: 20px 0;
+	}
+	.besh-5>div>input {
+		height: 38px;
+		width: 235px;
+		font-family: Inter;
+		font-size: 15px;
+		font-weight: 400;
+		line-height: 22px;
+		letter-spacing: -0.20000000298023224px;
+		padding-left: 10px;
+		outline: none;
+		border: 1px solid #DBDBDB;
+		border-radius: 6px;
+	}
+	.besh-5>div>input::placeholder {
+		font-family: Inter;
+		font-size: 15px;
+		font-weight: 400;
+		line-height: 22px;
+		letter-spacing: -0.20000000298023224px;
+		color: #585757;
+	}
+	.besh-5>div>button {
+		height: 38px;
+		width: 38px;
+		background: url("../img/sam.svg") #24AFB5 no-repeat center;
+		border: transparent;
+		border-radius: 6px;
+		box-shadow: 0px 1px 1px 0px #0000000A;
+		box-shadow: 0px 2px 1px 0px #00000008;
+		box-shadow: 0px 1px 3px 0px #0000000D;
+		
+	}
+	.no-t {
+		font-family: Inter;
+		font-size: 13px;
+		font-weight: 400;
+		line-height: 18px;
+		letter-spacing: -0.10000000149011612px;
+		color: #969696;
+		width: 96%;
+	}
+	.green {
+		height: 188px;
+		display: block;
+		width: 100%;
+		margin-top: 35px;
+		padding: 0 15px;
+		height: auto;
+	}
+	
+	.logo {
+		margin-top: 20px;
+	}
+	.logoes {
+		margin-bottom: 22px;
+	}
+	.green>p {
+		width: 100%;
+		height: auto;
+		font-family: Inter;
+		font-size: 13px;
+		font-weight: 400;
+		line-height: 18px;
+		letter-spacing: -0.10000000149011612px;
+		padding-right: 90px;
+		margin: 21px 0;
+	}
+	.one-t,
+	.so-t,
+	.y5,
+	.none,
+	.li {
+		display: none;
+	}
+}
