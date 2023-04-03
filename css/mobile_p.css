@@ -260,6 +260,9 @@
 		width: 96%;
 	}
 	.green {
+		margin: 0;
+	}
+	.green {
 		height: 188px;
 		display: block;
 		width: 100%;

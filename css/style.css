@@ -567,16 +567,33 @@ a {
 	display: none;
 }
 .tbb2 {
-		display: none;
+	display: none;
 }
-.navbar,
-	.head,
-	.background,
-	.heading-b,
-	.bac-tel,
-	.slider-b,
-	.two-box,
-	.section-box,
-	.green {
-		margin: 0 auto;
-	}
+
+.m-r,
+.m-t,
+button,
+.app-b,
+.play-b,
+.font-av>img,
+.logoes>img {
+	cursor: pointer;
+}
+.dot {
+	cursor: grabbing;
+}
+.yuq {
+	width: 170px;
+	display: flex;
+	justify-content: space-between;
+	align-content: center;
+}
+.section-t {
+	height: auto;
+	width: 110px;
+	font-size: 163%;
+}
+body>div {
+	display: flex;
+	justify-content: center;
+}
