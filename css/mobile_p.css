@@ -61,7 +61,6 @@
 		height: 905px;
 	}
 	.nout {
-		border: 1px solid #e3c994;
 		height: 300px;
 		width: 320px;
 		background-size: 100%;
@@ -98,7 +97,6 @@
 	
 	.yuz {
 		display: block;
-		border: 1px solid #0ff;
 		padding: 40px 15px 0;
 	}
 	.box-text {
@@ -142,7 +140,6 @@
 		height: 80px;
 		width: 100%;
 		justify-content: space-between;
-		border: 1px solid red;
 	}
 	.n5 {
 		display: block;
@@ -151,18 +148,15 @@
 		height: 120px;
 		width: 230px;
 		margin-top: 20px;
-		outline: 1px solid green;
 	}
 	.flx {
 		width: 100%;
 		display: block;
 	}
 	.ny {
-		border: 1px solid yellow;
 		margin-top: 30px;
 	}
 	.font-av {
-		border: 1px solid red;
 		margin-top: 22px;
 	}
 	
@@ -207,7 +201,6 @@
 	.besh-5 {
 		display: block;
 		height: auto;
-		border: 1px solid yellow;
 		margin-top: 30px;
 	}
 	.subscribe-t {
