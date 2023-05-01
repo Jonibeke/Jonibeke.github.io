@@ -1,0 +1,295 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&family=Vampiro+One&display=swap'); */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins';
+}
+.bir {
+    height: 840px;
+    width: 1903px;
+    background: url("../img/rasm.png");
+    text-align: center;
+    padding-top: 133px;
+}
+.flex {
+    height: 87px;
+    width: 418px;
+    display: flex;
+    margin: 0 auto;
+    gap: 14px;
+}
+.round {
+    font-family: Poppins;
+    font-size: 47px;
+    font-weight: 700;
+    line-height: 49px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #fff;
+    text-transform: uppercase;
+}
+.plumbing {
+    font-family: Poppins;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 33px;
+    letter-spacing: 0.7em;
+    text-align: left;
+    text-transform: uppercase;
+    color: #fff;
+}
+.what-t {
+    font-family: 'Poppins';
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 118.5%;
+    color: #FFFFFF;
+    margin-top: 97px;
+}
+.lorem {
+    height: 88px;
+    width: 520px;
+    margin: 0 auto;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    color: #FFFFFF;
+    margin-top: 30px;
+}
+.icons {
+    height: 136px;
+    width: 566px;
+    display: flex;
+    justify-content: space-between;
+    margin: 27px auto 0 auto;
+}
+.service-t {
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+.bir>button,
+.ong>button,
+.tort>button {
+    width: 192px;
+    height: 62px;
+    background: #50B2EA;
+    box-shadow: 0px 20px 40px rgba(129, 209, 255, 0.2);
+    border-radius: 10px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    border: transparent;
+    margin-top: 50px;
+    color: #fff;
+}
+/* ikki start */
+.ikki {
+    width: 1903px;
+    height: 763px;
+    background: #F2F2F2;
+    display: flex;
+}
+.chap {
+    width: 991px;
+    height: 100%;
+    display: flex;
+    justify-content: right;
+}
+.text {
+    width: 640px;
+    height: 509px;
+    background-color: #50B2EA;
+    border-radius: 40px 0 0 40px;
+    padding: 86px 77px 0 45px;
+    margin-top: 100px;
+}
+.dir {
+    display: flex;
+    gap: 14px;
+    margin-bottom: 20px;
+}
+.what-t-2 {
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 72px;
+    color: #fff;
+}
+.lorem-2 {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    color: #19435A;
+}
+.lorem-is {
+    font-style: normal;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 22px;
+    color: #fff;
+}
+.ong {
+    width: 912px;
+    background-color: #50B2EA;
+}
+.img-b-2 {
+    margin-top: 97px;
+}
+.img-b-2>img {
+    border: 3px solid #fff;
+    border-radius: 0 50px 40px 0;
+    border-left: transparent;
+}
+.ong>button {
+    border: 3px solid #fff;
+    transform: translateX(-145px);
+}
+.uch {
+    width: 1903px;
+    height: 390px;
+    background: #50B2EA;
+    text-align: center;
+    padding-top: 50px;
+}
+.services-t,
+.test {
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 72px;
+    color: #fff;
+    margin-bottom: 50px;
+}
+.ikkons-2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 82px;
+    width: 966px;
+    height: 180px;
+    margin: 0 auto;
+}
+.img>img,
+.img {
+    width: 100%;
+}
+
+/* Tort start */
+.tort {
+    height: 250px;
+    width: 1903px;
+    text-align: center;
+}
+.texts {
+    width: calc(100% - (471px + 469px));
+    margin: 0 auto;
+    display: flex;
+    gap: 81px;
+    margin-top: 21px;
+}
+.lorem-ip-t {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22px;
+    color: #50B2EA;
+}
+.loerm-ip-t2 {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    color: #19435A;
+}
+.t-1 {
+    width: 180px;
+}
+.tort>button {
+    box-shadow: 0px 20px 20px rgba(129, 209, 255, 0.2);
+}
+/* Besh start */
+.besh {
+    height: 718px;
+    width: 1903px;
+    text-align: center;
+    background-color: #50B2EA;
+    padding: 50px 351px;
+}
+.quti {
+    width: 577px;
+    height: 233px;
+    background: #FFFFFF;
+    box-shadow: 0px 20px 20px rgba(129, 209, 255, 0.2);
+    border-radius: 40px;
+    padding: 30px;
+}
+.flex-3 {
+    display: flex;
+    gap: 14px;
+}
+.texts-2 {
+    height: 145px;
+    width: 423px;
+    text-align: left;
+}
+.contune-t {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22px;
+    color: #50B2EA;
+}
+.lorem-4 {
+    font-size: 14px;
+    line-height: 22px;
+    color: #19435A;
+    margin: 13px 0 11.2px 0;
+}
+.stars {
+    display: flex;
+    gap: 9.11px;
+}
+.flex-3-4 {
+    display: flex;
+    gap: 46px;
+}
+.fl-1 {
+    margin: 30px 0 0 0;
+}
+
+.oltinchi {
+    height: 520px;
+    width: 1903px;
+    text-align: center;
+    padding-top: 50px;
+}
+.contact-t {
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 72px;
+    color: #50B2EA;
+    margin-bottom: 50px;
+}
+.oltinchi>input {
+    display: block;
+    margin: 0 auto;
+    height: 64px;
+    width: 370px;
+    border-radius: 40px;
+    margin-bottom: 14px;
+    background-color: #bcdff3;
+    border: transparent;
+}
+.oltinchi>button {
+    height: 64px;
+    width: 148px;
+    border-radius: 40px;
+    background-color: #50B2EA;
+    border: transparent;
+}
+.nima {
+    height: 80px;
+    width: 1903px;
+    background: #19435A;
+}
