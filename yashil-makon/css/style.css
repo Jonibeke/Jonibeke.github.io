@@ -74,12 +74,11 @@
 }
 .services {
     font-family: 'Poppins';
-    font-style: normal;
     font-weight: 800;
     font-size: 64px;
     line-height: 96px;
-    text-align: center;
     color: #828282;
+    margin-top: 70px;
 }
 .en {
     transform: translate(-100px, -47px);
